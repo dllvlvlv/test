@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- <link href="./config/Build/Cesium/Widgets/widgets.css">
+    <script src="config/Build/Cesium/Workers/zlib.min.js"></script>
+    <script src="config/Build/Cesium/Cesium.js"></script> -->
+    <script src="./node_modules/@supermap/iclient-leaflet/"></script>
+</head>
+
+<body>
+    <div id="map">
+        <!-- <viewer></viewer> -->
+    </div>
+    <script>
+        var url = "http://support.supermap.com.cn:8090/iserver/services/map-china400/rest/maps/ChinaDark";
+		// this.$nextTick(()=>{
+		map = leaflet.map('map', {
+			crs: leaflet.CRS.EPSG4326,
+			center: [0, 0],
+			maxZoom: 18,
+			zoom: 4,
+			wrapX:false
+		});
+		// })
+		tiledMapLayer(url).addTo(map);	
+    </script>
+  </body>
+</html>

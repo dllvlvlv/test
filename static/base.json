@@ -1,0 +1,172 @@
+{
+  "Base":[
+    {
+      "number": "1",
+      "bname": "  义和乡 ",
+      "bcode": "base0001",
+      "county": "彭山区",
+      "lng": "103.76637",
+      "lat": "30.201048",
+      "contact": "小李",
+      "phonenumber": "19815100101",
+      "area": "106",
+      "address": "四川省眉山市彭山区义和乡政府 "
+    },
+    {
+      "number": "2",
+      "bname": "公义镇",
+      "bcode": "base0002",
+      "county": "彭山区",
+      "lng": "103.834258",
+      "lat": "30.271872",
+      "contact": "小张",
+      "phonenumber": "15746639888",
+      "area": "15",
+      "address": "眉山市彭山区正街 "
+    },
+    {
+      "number": "3",
+      "bname": "太伏镇",
+      "bcode": "base0003",
+      "county": "泸县",
+      "lng": "105.64769",
+      "lat": "28.983478",
+      "contact": "小王",
+      "phonenumber": "17969327482",
+      "area": "24",
+      "address": "四川省泸州市泸县太伏镇政府(政通街南) "
+    },
+    {
+      "number": "4",
+      "bname": "海潮镇",
+      "bcode": "base0004",
+      "county": "泸县",
+      "lng": "105.291431",
+      "lat": "28.975034",
+      "contact": "小杨",
+      "phonenumber": "17663908769",
+      "area": "59",
+      "address": "四川省泸州市泸县海潮镇政府(泸富路西) "
+    },
+    {
+      "number": "5",
+      "bname": " 大堰镇 ",
+      "bcode": "base0005",
+      "county": "江油市 ",
+      "lng": "104.80571",
+      "lat": "31.714834",
+      "contact": "小周",
+      "phonenumber": "18048117524",
+      "area": "103",
+      "address": "绵阳市江油市 "
+    },
+    {
+      "number": "6",
+      "bname": "小溪坝镇",
+      "bcode": "base0006",
+      "county": "江油市",
+      "lng": "105.009163",
+      "lat": "31.89876",
+      "contact": "小赵",
+      "phonenumber": "16355276030",
+      "area": "62",
+      "address": "绵阳市江油市 "
+    },
+    {
+      "number": "7",
+      "bname": "王泗镇",
+      "bcode": "base0007",
+      "county": "大邑县",
+      "lng": "103.493917",
+      "lat": "30.526591",
+      "contact": "小冯",
+      "phonenumber": "10507628341",
+      "area": "61",
+      "address": "四川省成都市大邑县王泗镇委(惠通路东)"
+    },
+    {
+      "number": "8",
+      "bname": "略坪镇",
+      "bcode": "base0008",
+      "county": "罗江县",
+      "lng": "104.41159",
+      "lat": "31.339142",
+      "contact": "小钱",
+      "phonenumber": "19249430734",
+      "area": "22",
+      "address": "德阳市罗江区外环北路88号 "
+    },
+    {
+      "number": "9",
+      "bname": "新盛镇",
+      "bcode": "base0009",
+      "county": "罗江县",
+      "lng": "104.651041",
+      "lat": "31.273633",
+      "contact": "小黄",
+      "phonenumber": "18603089905",
+      "area": "47",
+      "address": "德阳市罗江区东街 "
+    },
+    {
+      "number": "10",
+      "bname": "朝真乡",
+      "bcode": "base0010",
+      "county": "游仙区",
+      "lng": "104.998161",
+      "lat": "31.693649",
+      "contact": "小丽",
+      "phonenumber": "12489795563",
+      "area": "42",
+      "address": "四川省绵阳市游仙区朝真乡政府(朝兴街东) "
+    },
+    {
+      "number": "11",
+      "bname": "忠兴镇",
+      "bcode": "base0011",
+      "county": "游仙区",
+      "lng": "104.87004",
+      "lat": "31.626394",
+      "contact": "小明",
+      "phonenumber": "13338862549",
+      "area": "79",
+      "address": "绵阳市游仙区胜黎路 "
+    },
+    {
+      "number": "12",
+      "bname": "卧龙镇",
+      "bcode": "base0012",
+      "county": "梓潼县",
+      "lng": "105.048087",
+      "lat": "31.662551",
+      "contact": "小杨",
+      "phonenumber": "12246047447",
+      "area": "19",
+      "address": "四川省绵阳市梓潼县卧龙镇委(安梓路南) "
+    },
+    {
+      "number": "13",
+      "bname": "黎雅镇",
+      "bcode": "base0013",
+      "county": "梓潼县",
+      "lng": "105.01552",
+      "lat": "31.731805",
+      "contact": "小周",
+      "phonenumber": "12072178372",
+      "area": "76",
+      "address": "绵阳市梓潼县 "
+    },
+    {
+      "number": "14",
+      "bname": "清岗镇",
+      "bcode": "base0014",
+      "county": "射洪县",
+      "lng": "105.541151",
+      "lat": "30.890938",
+      "contact": "小赵",
+      "phonenumber": "14865394616",
+      "area": "48",
+      "address": "四川省遂宁市射洪县青岗镇政府(西金路西) "
+    }
+  ]
+}
