@@ -15,7 +15,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.11.1",
     "leaflet-draw": "^1.0.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "ol": "^5.3.3",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.2",
